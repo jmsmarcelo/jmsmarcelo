@@ -1,5 +1,11 @@
-### Hi there 👋
+## Jose Marcelo
+### 🌱 I’m currently learning:
+- **Front-End:** HTML - CSS - JavaScript
 
+- **Back-End:** PHP
+
+### 📫 How to reach me:
+- [Instagram](https://www.instagram.com/JMSsMarcelo/) | [Twitter](https://twitter.com/JMSsMarcelo) | [Telegram](https://t.me/JMSsMarcelo)
 <!--
 **jmsmarcelo/jmsmarcelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
