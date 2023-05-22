@@ -4,8 +4,12 @@
 
 - **Back-End:** PHP
 
+### 🎞️ How to I do:
+- [Design](https://www.youtube.com/@JMSsDesigns) | [Code](https://www.youtube.com/@JMSsTools)
+
 ### 📫 How to reach me:
 - [Instagram](https://www.instagram.com/JMSsMarcelo/) | [Twitter](https://twitter.com/JMSsMarcelo) | [Telegram](https://t.me/JMSsMarcelo)
+
 <!--
 **jmsmarcelo/jmsmarcelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
