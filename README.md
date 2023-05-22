@@ -4,8 +4,8 @@
 
 - **Back-End:** PHP
 
-### 🎞️ Guides:
-- [Design](https://www.youtube.com/@JMSsDesigns) | [Code](https://www.youtube.com/@JMSsTools)
+### 🎞️ My Channels:
+- [Designs](https://www.youtube.com/@JMSsDesigns) | [Codes](https://www.youtube.com/@JMSsTools)
 
 ### 📫 How to reach me:
 - [Instagram](https://www.instagram.com/JMSsMarcelo/) | [Twitter](https://twitter.com/JMSsMarcelo) | [Telegram](https://t.me/JMSsMarcelo)
