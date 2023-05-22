@@ -4,7 +4,7 @@
 
 - **Back-End:** PHP
 
-### 🎞️ How to I do:
+### 🎞️ Guides:
 - [Design](https://www.youtube.com/@JMSsDesigns) | [Code](https://www.youtube.com/@JMSsTools)
 
 ### 📫 How to reach me:
