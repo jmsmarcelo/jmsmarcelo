@@ -2,7 +2,7 @@
 ### 🌱 I’m currently learning:
 - **Front-End:** HTML - CSS - JavaScript
 
-- **Back-End:** PHP
+- **Back-End:** PHP - Java
 
 ### 🎞️ My Channels:
 - [Designs](https://www.youtube.com/@JMSsDesigns) | [Tools](https://www.youtube.com/@JMSsTools)
