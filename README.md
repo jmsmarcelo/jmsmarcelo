@@ -8,7 +8,7 @@
 - [Designs](https://www.youtube.com/@JMSsDesigns) | [Tools](https://www.youtube.com/@JMSsTools)
 
 ### 📫 How to reach me:
-- [Twitter](https://twitter.com/JMSsMarcelo) | [Telegram](https://t.me/JMSsMarcelo) | [LinkedIn](https://www.linkedin.com/in/JMSsMarcelo/)
+- [Twitter](https://twitter.com/JMSsMarcelo) | [Telegram](https://t.me/JMSsMarcelo) | [LinkedIn](https://www.linkedin.com/in/JMSsMarcelo/) | [Alura](https://cursos.alura.com.br/user/jmsmarcelo)
 
 ### 🔭 About me:
 - [Stack**overflow**](https://stackoverflow.com/users/5546568/jmsmarcelo) | [W3Schools](https://www.w3profile.com/jmsmarcelo)
