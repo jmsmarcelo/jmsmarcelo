@@ -22,6 +22,7 @@
 - [Decodificador de Texto](https://github.com/jmsmarcelo/TextDecoder)
 - [Conversor de Moedas](https://github.com/jmsmarcelo/currency-converter)
 - [Hotel Alura](https://github.com/jmsmarcelo/alura-hotel)
+- [Forum Alura](https://github.com/jmsmarcelo/alura-forum-api-rest)
 
 <!--
 **jmsmarcelo/jmsmarcelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
