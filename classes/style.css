@@ -62,19 +62,19 @@ main > section {
 
 main > section > article h3 {
     float: left;
-    transform: rotate(-90deg);
-    margin-top: 160px;
-    margin-left: -136px;
-    padding: 7px 90px 7px 90px;
+    writing-mode: vertical-rl;
+    margin-top: 20px;
+    margin-left: 0;
+    padding: 95px 7px 95px 7px;
     color: white;
     letter-spacing: 2px;
     background-color: red;
-    border-radius: 0 0 15px 15px;
+    border-radius: 0 15px 15px 0;
 }
 main > section > article table {
     float: left;
-    margin-top: 37px;
-    margin-left: -120px;
+    margin-top: 35px;
+    margin-left: 0;
     border-spacing: 0;
     font-family: 'Antonio' sans-serif;
 }
@@ -93,24 +93,19 @@ main >section > article > table hr {
 }
 hr {
     display: inline-block;
-    margin-top: 40px;
+    margin-top: 15px;
     margin-left: 10%;
     width: 80%;
 }
 main > section > article:nth-child(3) h3 {
-    margin-top: 110px;
-    margin-left: -104px;
-    padding: 7px 50px 7px 50px;
-    color: white;
+    margin-top: 5px;
+    margin-left: 0;
+    padding: 50px 7px 50px 7px;
     background-color: green;
 }
-main > section > article > div {
-    float: left;
-    margin-top: 30px;
-    margin-left: -90px;
-}
-main > section > article > div > p {
-    margin: 3px;
+main > section > article:nth-child(3) table td:nth-child(2) {
+    padding-left: 17px;
+    font-size: small;
 }
 
 @media only screen and (orientation: portrait) {

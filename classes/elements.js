@@ -70,23 +70,28 @@ var elements = {
     'secInfo_hr_lineOne': [],
     'secInfo_article_articleCert': [],
     'articleCert_h3_certTitle': ['textContent__Certificações'],
-    'articleCert_div_divCert': [],
-    'divCert_p_beginPro': [],
-    'beginPro_span_beginProdesc': ['textContent__Iniciante em Programação - '],
-    'beginPro_a_beginProcert': [
-        'href__https://cursos.alura.com.br/user/jmsmarcelo/degree-logica-de-programacao-turma-5-oracle-one-561815/certificate',
+    'articleCert_table_tableCert': [],
+    'tableCert_tr_trBeginPro': [],
+    'trBeginPro_td_beginProdesc': ['textContent__Iniciante em Programação'],
+    'trBeginPro_td_tdBeginProCert': [],
+    'tdBeginProCert_a_beginProCert': [
+        'href__https://cursos.alura.com.br/degree/certificate/c4214034-a004-44c7-98be-d48d4395d272',
         'target___blank',
-        'textContent__Certificado Alura'],
-    'divCert_p_javaSpringB': [],
-    'javaSpringB_span_javaSpringBdesc': ['textContent__Java e Spring Boot 3 - '],
-    'javaSpringB_a_javaSpringBcert': [
-        'href__https://cursos.alura.com.br/user/jmsmarcelo/degree-spring-framework-turma5-one-582698/certificate',
+        'textContent__Certificado'],
+        'trBeginPro_td_certIcon': ['rowSpan__3'],
+    'certIcon_img_imgCertIcon': ['src__classes/images/cert-design.svg'],
+    'tableCert_tr_trJavaSpringB': [],
+    'trJavaSpringB_td_JavaSpringBdesc': ['textContent__Java e Spring Boot 3'],
+    'trJavaSpringB_td_tdJavaSpringBCert': [],
+    'tdJavaSpringBCert_a_JavaSpringBCert': [
+        'href__https://cursos.alura.com.br/degree/certificate/f484da26-7936-4494-85d1-d6dcb75da899',
         'target___blank',
-        'textContent__Certificado Alura'],
-    'divCert_p_SQL': [],
-    'SQL_span_SQLdesc': ['textContent__SQL com MySQL - '],
-    'SQL_a_SQLcert': [
-        'href__https://cursos.alura.com.br/user/jmsmarcelo/degree-oracle-mysql-3983/certificate',
+        'textContent__Certificado'],
+    'tableCert_tr_trSQL': [],
+    'trSQL_td_SQLdesc': ['textContent__SQL com MySQL'],
+    'trSQL_td_tdSQLCert': [],
+    'tdSQLCert_a_SQLCert': [
+        'href__https://cursos.alura.com.br/degree/certificate/bcd642bb-6a0e-4819-a41f-8dc362b1b65d',
         'target___blank',
-        'textContent__Certificado Alura']
+        'textContent__Certificado'],
 }
