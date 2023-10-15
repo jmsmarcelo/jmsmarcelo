@@ -11,7 +11,7 @@
 - [Twitter](https://twitter.com/JMSsMarcelo) | [Telegram](https://t.me/JMSsMarcelo) | [LinkedIn](https://www.linkedin.com/in/JMSsMarcelo/)
 
 ### 🔭 About me:
-- [Stack**overflow**](https://stackoverflow.com/users/5546568/jmsmarcelo) | [W3Schools](https://www.w3profile.com/jmsmarcelo) | [Alura](https://cursos.alura.com.br/user/jmsmarcelo)
+- [Stack**overflow**](https://stackoverflow.com/users/5546568/jmsmarcelo) | [W3Schools](https://www.w3profile.com/jmsmarcelo) | [Alura](https://cursos.alura.com.br/user/jmsmarcelo) | [Profile](https://jmsmarcelo.github.io/jmsmarcelo/)
 
 ## 🧮 Projects
 ### 💡 My Projects:
