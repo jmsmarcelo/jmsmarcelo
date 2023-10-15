@@ -1,0 +1,147 @@
+
+body {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+}
+main {
+    display: flex;
+    height: 642px;
+}
+aside {
+    float: left;
+    width: 280px;
+    box-sizing: border-box;
+    color: white;
+    background-color: rgb(0, 0, 80);
+}
+aside > header {
+    padding: 30px 30px 10px 30px;
+}
+aside > header h2 {
+    font-family: 'Antonio', sans-serif;
+    margin-bottom: 3px;
+}
+aside > header p {
+    font-size: small;
+    margin: 0;
+}
+aside > header img {
+    width: 150px;
+    border: 8px solid white;
+    border-radius: 50%;
+}
+aside > section {
+    text-align: left;
+}
+aside > section h1 {
+    background-color: rgb(0, 0, 40);
+    padding: 7px 30px;
+    margin-bottom: 7px;
+}
+aside > section p {
+    display: flex;
+    padding: 0 30px;
+    margin: 0;
+}
+aside > section span {
+    margin: auto 18px;
+}
+aside > section table td {
+    padding-left: 30px;
+}
+main > section {
+    float: left;
+    width: 520px;
+    border: 2px solid rgb(0, 0, 60);
+    box-sizing: border-box;
+    text-align: left;
+}
+
+main > section > article h3 {
+    float: left;
+    transform: rotate(-90deg);
+    margin-top: 160px;
+    margin-left: -136px;
+    padding: 7px 90px 7px 90px;
+    color: white;
+    letter-spacing: 2px;
+    background-color: red;
+    border-radius: 0 0 15px 15px;
+}
+main > section > article table {
+    float: left;
+    margin-top: 37px;
+    margin-left: -120px;
+    border-spacing: 0;
+    font-family: 'Antonio' sans-serif;
+}
+main >section > article > table th {
+    padding-right: 50px;
+}
+main >section > article > table img {
+    margin-left: 50px;
+    width: 100px;
+}
+main >section > article > table hr {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+hr {
+    display: inline-block;
+    margin-top: 40px;
+    margin-left: 10%;
+    width: 80%;
+}
+main > section > article:nth-child(3) h3 {
+    margin-top: 110px;
+    margin-left: -104px;
+    padding: 7px 50px 7px 50px;
+    color: white;
+    background-color: green;
+}
+main > section > article > div {
+    float: left;
+    margin-top: 30px;
+    margin-left: -90px;
+}
+main > section > article > div > p {
+    margin: 3px;
+}
+
+@media only screen and (orientation: portrait) {
+    body {
+        width: 100vw;
+    }
+    main {
+        flex-direction: column;
+    }
+    main > aside {
+        display: flex;
+        width: 100vw;
+        min-width: 380px;
+    }
+    aside > header {
+        padding: 7px;
+    }
+    main > section {
+        float: none;
+        display: block;
+        width: 100vw;
+        min-width: 380px;
+        border: none;
+        min-height: initial;
+    }
+}
+@media only screen and (max-width: 473px) {
+    main >section > article > table img {
+        display: none;
+    }
+    main > aside {
+        flex-direction: column;
+    }
+}
