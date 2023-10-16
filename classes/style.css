@@ -34,6 +34,7 @@ aside > header img {
 }
 aside > section {
     text-align: left;
+    width: 100%;
 }
 aside > section h1 {
     background-color: rgb(0, 0, 40);
@@ -45,8 +46,8 @@ aside > section p {
     padding: 0 30px;
     margin: 0;
 }
-aside > section span {
-    margin: auto 18px;
+aside > section a {
+    margin: auto 10px auto 0;
 }
 aside > section table td {
     padding-left: 30px;
@@ -70,16 +71,13 @@ main > section > article h3 {
     border-radius: 0 15px 15px 0;
 }
 main > section > article table {
+    width: calc(100% - 55px);
     float: left;
     margin-top: 35px;
     margin-left: 0;
     border-spacing: 0;
 }
-main >section > article > table th {
-    padding-right: 50px;
-}
 main >section > article > table img {
-    margin-left: 50px;
     width: 100px;
 }
 main >section > article > table hr {
@@ -100,14 +98,10 @@ main > section > article:nth-child(3) h3 {
     padding: 35px 7px 35px 7px;
     background-color: green;
 }
-main > section > article:nth-child(3) table {
-    margin-top: 70px;
-}
 main > section > article:nth-child(3) table td:nth-child(1) {
     font-size: small;
 }
 main > section > article:nth-child(3) table td:nth-child(2) {
-    padding-left: 45px;
     font-size: small;
 }
 
@@ -120,7 +114,7 @@ main > section > article:nth-child(3) table td:nth-child(2) {
     }
     main > aside {
         display: flex;
-        width: 100vw;
+        width: 100%;
         min-width: 380px;
     }
     aside > header {
@@ -134,7 +128,7 @@ main > section > article:nth-child(3) table td:nth-child(2) {
         min-height: initial;
     }
 }
-@media only screen and (max-width: 473px) {
+@media only screen and (max-width: 420px) {
     main >section > article > table img {
         display: none;
     }
