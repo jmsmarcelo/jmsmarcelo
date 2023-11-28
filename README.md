@@ -1,40 +1,36 @@
-## Jose Marcelo
-### 🌱 I’m currently learning:
-- **Front-End:** HTML - CSS - JavaScript
+# jmsmarcelo
+Eterno estudante de Programação.
 
-- **Back-End:** PHP - Java
+## Meus Perfis
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JMSsMarcelo/)
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=X)](https://x.com/JMSsMarcelo)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jmsmarcelo)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5546568/jmsmarcelo)
 
-### 🎞️ My Youtube Channels:
-- [Designs](https://www.youtube.com/@JMSsDesigns) | [Tools](https://www.youtube.com/@JMSsTools)
+## Habilidades
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📫 How to reach me:
-- [Twitter](https://twitter.com/JMSsMarcelo) | [Telegram](https://t.me/JMSsMarcelo) | [LinkedIn](https://www.linkedin.com/in/JMSsMarcelo/)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 🔭 About me:
-- [Stack**overflow**](https://stackoverflow.com/users/5546568/jmsmarcelo) | [W3Schools](https://www.w3profile.com/jmsmarcelo) | [Alura](https://cursos.alura.com.br/user/jmsmarcelo) | [Profile](https://jmsmarcelo.github.io/jmsmarcelo/)
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmsmarcelo&theme=transparent&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jmsmarcelo&layout=compact&bg_color=000&border_color=378141&title_color=378141&text_color=FFF)
 
-## 🧮 Projects
-### 💡 My Projects:
-- [Digital/Analog Clock](https://github.com/jmsmarcelo/Clock)
-- [Hymns Audio Player](https://github.com/jmsmarcelo/hasd)
+# Projetos
+### Meus Projetos
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=clock&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=hasd&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
 
-### 🔭 Alura Challenges Oracle ONE T5:
-- [Decodificador de Texto](https://github.com/jmsmarcelo/TextDecoder)
-- [Conversor de Moedas](https://github.com/jmsmarcelo/currency-converter)
-- [Hotel Alura](https://github.com/jmsmarcelo/alura-hotel)
-- [Forum Alura](https://github.com/jmsmarcelo/alura-forum-api-rest)
-
-<!--
-**jmsmarcelo/jmsmarcelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Alura Challenges Oracle ONE T5
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=TextDecoder&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=currency-converter&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=alura-hotel&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=alura-forum-api-rest&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
