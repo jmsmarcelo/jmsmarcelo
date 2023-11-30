@@ -6,6 +6,7 @@ Eterno estudante de Programação.
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=X)](https://x.com/JMSsMarcelo)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jmsmarcelo)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5546568/jmsmarcelo)
+[![YouTube](https://img.shields.io/badge/-YouTube-ffffff?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://www.youtube.com/@JMSsMarcelo)
 
 ## Habilidades
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,6 +20,12 @@ Eterno estudante de Programação.
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![Adobe Premiere](https://img.shields.io/badge/adobe%20premiere-9999ff.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=00005b)
+![Adobe After Effects](https://img.shields.io/badge/adobe%20after%20effects-9999ff.svg?style=for-the-badge&logo=adobe-after-effects&logoColor=00005b)
+![Adobe Audition](https://img.shields.io/badge/adobe%20audition-9999ff.svg?style=for-the-badge&logo=adobe-audition&logoColor=00005b)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-31a8ff.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=001e36)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-ff9a00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=330000)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmsmarcelo&theme=transparent&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)
