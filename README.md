@@ -33,11 +33,12 @@ Eterno estudante de Programação.
 
 # Projetos
 ### Meus Projetos
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=clock&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/jmsmarcelo/Clock)
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=hasd&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/jmsmarcelo/hasd)
+[![Repo jmsmarcelo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=clock-android-java&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/jmsmarcelo/clock-android-java)
+[![Repo jmsmarcelo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=clock&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/jmsmarcelo/Clock)
+[![Repo jmsmarcelo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=hasd&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/jmsmarcelo/hasd)
 
 ### Alura Challenges Oracle ONE T5
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=TextDecoder&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/jmsmarcelo/TextDecoder)
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=currency-converter&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/jmsmarcelo/currency-converter)
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=alura-hotel&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/jmsmarcelo/alura-hotel)
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=alura-forum-api-rest&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/jmsmarcelo/alura-forum-api-rest)
+[![Repo jmsmarcelo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=TextDecoder&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/jmsmarcelo/TextDecoder)
+[![Repo jmsmarcelo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=currency-converter&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/jmsmarcelo/currency-converter)
+[![Repo jmsmarcelo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=alura-hotel&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/jmsmarcelo/alura-hotel)
+[![Repo jmsmarcelo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=alura-forum-api-rest&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/jmsmarcelo/alura-forum-api-rest)
