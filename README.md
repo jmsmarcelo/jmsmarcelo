@@ -37,6 +37,11 @@ Eterno estudante de Programação.
 [![Repo jmsmarcelo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=clock&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/jmsmarcelo/Clock)
 [![Repo jmsmarcelo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=hasd&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/jmsmarcelo/hasd)
 
+### DIO Bootcamp Challenges | Potência Tech iFood - Programação do Zero
+[![Repo jmsmarcelo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=hero-level-sorter-challenge&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/jmsmarcelo/hero-level-sorter-challenge)
+[![Repo jmsmarcelo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=ranked-playing-calculator&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/jmsmarcelo/ranked-playing-calculator)
+[![Repo jmsmarcelo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=writing-games-classes&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/jmsmarcelo/writing-games-classes)
+
 ### Alura Challenges Oracle ONE T5
 [![Repo jmsmarcelo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=TextDecoder&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/jmsmarcelo/TextDecoder)
 [![Repo jmsmarcelo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=currency-converter&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/jmsmarcelo/currency-converter)
