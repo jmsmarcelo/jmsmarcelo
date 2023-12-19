@@ -47,3 +47,5 @@ Eterno estudante de Programação.
 [![Repo jmsmarcelo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=currency-converter&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/jmsmarcelo/currency-converter)
 [![Repo jmsmarcelo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=alura-hotel&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/jmsmarcelo/alura-hotel)
 [![Repo jmsmarcelo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=alura-forum-api-rest&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/jmsmarcelo/alura-forum-api-rest)
+
+![IandPC_33 2](https://github.com/jmsmarcelo/jmsmarcelo/assets/32857346/5c47367d-ae87-4a48-9b5c-b1e26f26add1)
