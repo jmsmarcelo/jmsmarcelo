@@ -8,6 +8,10 @@ Eterno estudante de Programação.
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5546568/jmsmarcelo)
 [![YouTube](https://img.shields.io/badge/-YouTube-ffffff?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://www.youtube.com/@JMSsMarcelo)
 
+[![@JMSsGameplays](https://img.shields.io/badge/Gameplays-ffffff?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://www.youtube.com/@JMSsGameplays)
+[![@JMSsGameplays](https://img.shields.io/badge/Gameplays-ffffff?style=for-the-badge&logo=tiktok&logoColor=000000)](https://www.tiktok.com/@JMSsGameplays)
+[![@JMSsGameplays](https://img.shields.io/badge/Gameplays-ffffff?style=for-the-badge&logo=kwai&logoColor=ff4d00)](https://www.kwai.com/@JMSsGameplays)
+
 ## Habilidades
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
