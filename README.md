@@ -1,5 +1,5 @@
 # Jose Marcelo
-**The tragedy of life is what dies inside a man while he lives.** (Albert Schweitzer)
+**“Shoot for the moon. Even if you miss, you'll land among the stars”** *Norman Vincent Peale*
 
 ## Meus Perfis
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JMSsMarcelo/)
