@@ -1,6 +1,8 @@
 # Jose Marcelo
 **“Shoot for the moon. Even if you miss, you'll land among the stars”**
+
 **"Atire-se para a lua, ainda que erre, você estará entre às estrelas"**
+
  *Norman Vincent Peale*
 
 ## Meus Perfis
