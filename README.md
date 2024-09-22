@@ -6,34 +6,35 @@
  *Norman Vincent Peale*
 
 ## Meus Perfis
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JMSsMarcelo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JMSsMarcelo/)
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=X)](https://x.com/JMSsMarcelo)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jmsmarcelo)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5546568/jmsmarcelo)
-[![YouTube](https://img.shields.io/badge/-YouTube-ffffff?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://www.youtube.com/@JMSsMarcelo)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/jmsmarcelo)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5546568/jmsmarcelo)
+[![YouTube](https://img.shields.io/badge/-YouTube-ffffff?logo=youtube&logoColor=ff0000)](https://www.youtube.com/@JMSsMarcelo)
 
-[![@JMSsGameplays](https://img.shields.io/badge/Gameplays-ffffff?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://www.youtube.com/@JMSsGameplays)
-[![@JMSsGameplays](https://img.shields.io/badge/Gameplays-ffffff?style=for-the-badge&logo=tiktok&logoColor=000000)](https://www.tiktok.com/@JMSsGameplays)
-[![@JMSsGameplays](https://img.shields.io/badge/Gameplays-ffffff?style=for-the-badge&logo=kwai&logoColor=ff4d00)](https://www.kwai.com/@JMSsGameplays)
+[![@JMSsGameplays](https://img.shields.io/badge/Gameplays-ffffff?logo=youtube&logoColor=ff0000)](https://www.youtube.com/@JMSsGameplays)
+[![@JMSsGameplays](https://img.shields.io/badge/Gameplays-ffffff?logo=tiktok&logoColor=000000)](https://www.tiktok.com/@JMSsGameplays)
+[![@JMSsGameplays](https://img.shields.io/badge/Gameplays-ffffff?logo=kwai&logoColor=ff4d00)](https://www.kwai.com/@JMSsGameplays)
 
 ## Habilidades
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-OpenJFX-blue)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white)
 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 
-![Adobe Premiere](https://img.shields.io/badge/adobe%20premiere-9999ff.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=00005b)
-![Adobe After Effects](https://img.shields.io/badge/adobe%20after%20effects-9999ff.svg?style=for-the-badge&logo=adobe-after-effects&logoColor=00005b)
-![Adobe Audition](https://img.shields.io/badge/adobe%20audition-9999ff.svg?style=for-the-badge&logo=adobe-audition&logoColor=00005b)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-31a8ff.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=001e36)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-ff9a00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=330000)
+![Adobe Premiere](https://img.shields.io/badge/Premiere-9999ff.svg?logo=adobe-premiere-pro&logoColor=00005b)
+![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999ff.svg?logo=adobe-after-effects&logoColor=00005b)
+![Adobe Audition](https://img.shields.io/badge/Audition-9999ff.svg?logo=adobe-audition&logoColor=00005b)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31a8ff.svg?logo=adobe-photoshop&logoColor=001e36)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-ff9a00.svg?logo=adobe-illustrator&logoColor=330000)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmsmarcelo&theme=transparent&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)
@@ -41,6 +42,8 @@
 
 # Projetos
 ### Meus Projetos
+[![Repo jmsmarcelo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=css-live-tutorial&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/jmsmarcelo/css-live-tutorial)
+[![Repo jmsmarcelo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=clock-desktop-javafx&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/jmsmarcelo/clock-desktop-javafx)
 [![Repo jmsmarcelo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=clock-android-java&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/jmsmarcelo/clock-android-java)
 [![Repo jmsmarcelo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=clock&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/jmsmarcelo/Clock)
 [![Repo jmsmarcelo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=hasd&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/jmsmarcelo/hasd)
