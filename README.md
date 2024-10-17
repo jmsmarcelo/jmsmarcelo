@@ -1,9 +1,9 @@
 # Jose Marcelo
-**“Shoot for the moon. Even if you miss, you'll land among the stars”**
+"**The only thing necessary for the triumph of evil is for good men to do nothing.**"
 
-**"Atire-se para a lua, ainda que erre, você estará entre às estrelas"**
+"A única coisa necessária para o triunfo do mal é que os homens bons não façam nada."
 
- *Norman Vincent Peale*
+*John Stuart Mill*
 
 ## Meus Perfis
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JMSsMarcelo/)
