@@ -21,6 +21,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+
+![C](https://img.shields.io/badge/C-%23004482.svg?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%23004482.svg?logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-OpenJFX-blue)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white)
@@ -47,6 +50,10 @@
 [![Repo jmsmarcelo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=clock-android-java&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/jmsmarcelo/clock-android-java)
 [![Repo jmsmarcelo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=clock&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/jmsmarcelo/Clock)
 [![Repo jmsmarcelo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=hasd&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/jmsmarcelo/hasd)
+
+### Roadmap.sh Projects
+[![Repo jmsmarcelo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=task-tracker-cpp&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/jmsmarcelo/task-tracker-cpp)
+[![Repo jmsmarcelo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=github-user-activity-cpp&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/jmsmarcelo/github-user-activity-cpp)
 
 ### DIO Challenges | Bootcamp: Coding The Future GFT – Desenvolvimento Java com IA
 [![Repo jmsmarcelo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=iphone-modeling-diagram&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/jmsmarcelo/iphone-modeling-diagram)
