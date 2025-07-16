@@ -1,9 +1,9 @@
 # Jose Marcelo
-"**The only thing necessary for the triumph of evil is for good men to do nothing.**"
 
-"A única coisa necessária para o triunfo do mal é que os homens bons não façam nada."
-
-*John Stuart Mill*
+🧠 Sou desenvolvedor autodidata, apaixonado por entender como as coisas funcionam de verdade.  
+💻 Foco atual em **C/C++**, criando aplicações **CLI, Web** e explorando **GUI com Qt e WinAPI**.  
+🎯 Busco me aprofundar em baixo nível e construir um portfólio técnico sólido, com projetos reais, organizados e funcionais.  
+🚀 Futuro: dominar **Assembly** e participar de projetos como **emuladores de consoles antigos**.
 
 ## Meus Perfis
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JMSsMarcelo/)
@@ -14,7 +14,6 @@
 
 [![@JMSsGameplays](https://img.shields.io/badge/Gameplays-ffffff?logo=youtube&logoColor=ff0000)](https://www.youtube.com/@JMSsGameplays)
 [![@JMSsGameplays](https://img.shields.io/badge/Gameplays-ffffff?logo=tiktok&logoColor=000000)](https://www.tiktok.com/@JMSsGameplays)
-[![@JMSsGameplays](https://img.shields.io/badge/Gameplays-ffffff?logo=kwai&logoColor=ff4d00)](https://www.kwai.com/@JMSsGameplays)
 
 ## Habilidades
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](#habilidades)
@@ -28,6 +27,8 @@
 [![JavaFX](https://img.shields.io/badge/JavaFX-OpenJFX-blue)](#habilidades)
 [![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white)](#habilidades)
 [![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white)](#habilidades)
+
+## Ferramentas
 
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white)](#habilidades)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=white)](#habilidades)
