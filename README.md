@@ -31,7 +31,7 @@
 
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white)](#habilidades)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=white)](#habilidades)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](#habilidades)
 
 [![Adobe Premiere](https://img.shields.io/badge/Premiere-9999ff.svg?logo=adobe-premiere-pro&logoColor=00005b)](#habilidades)
 [![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999ff.svg?logo=adobe-after-effects&logoColor=00005b)](#habilidades)
