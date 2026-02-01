@@ -1,7 +1,7 @@
 # Jose Marcelo
 
 🧠 Desenvolvedor autodidata, apaixonado por entender como as coisas funcionam de verdade  
-💻 Foco atual em **C**, criando aplicações **CLI, Web** e explorando **GUI com Qt e WinAPI**  
+💻 Foco atual em **C**, criando aplicações **CLI, Web** e explorando **GUI com WinAPI**  
 🎯 Interesse profundo em **baixo nível**, organização, performance e arquitetura  
 🚀 Objetivo futuro: **Assembly** e **emuladores de consoles antigos**
 
