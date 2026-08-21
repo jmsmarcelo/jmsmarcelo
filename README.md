@@ -5,6 +5,10 @@
 🎯 Interesse profundo em **baixo nível**, organização, performance e arquitetura  
 🚀 Objetivo futuro: **Assembly** e **emuladores de consoles antigos**
 
+
+> _"O dado mais importante que separa o ser humano de todos os seus irmãos e primos na escala filogenética é o conhecimento. Só o conhecimento liberta o homem. Só através do conhecimento o homem é livre e, em sendo livre, ele pode aspirar a uma condição melhor de vida, para ele e todos os seus semelhantes."_ Dr. Enéas Carneiro.
+
+
 ## 🌐 Meus Perfis
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JMSsMarcelo/)
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=X)](https://x.com/JMSsMarcelo)
